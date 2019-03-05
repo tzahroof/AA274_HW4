@@ -1,4 +1,4 @@
-# AA274_HW4_internal
+# AA274_HW4
 AA274 Homework 4 2019
 
 Submit your work to Gradescope.
